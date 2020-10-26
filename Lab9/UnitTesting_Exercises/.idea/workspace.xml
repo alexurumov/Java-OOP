@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e6592d4-216b-49de-87e4-7a5222e303ca" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UnitTesting_Exercises" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>database</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/p01_Database/Database.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p01_Database/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Person.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DatabaseTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DatabaseExtendedTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ListIteratorTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p04_BubbleSortTest/Bubble.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BubbleSortTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/p05_CustomLinkedList/CustomLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CustomLinkedListTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TirePressureTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="37" />
+    <option name="width" value="1317" />
+    <option name="height" value="769" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p06_TirePressureMonitoringSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTesting_Exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTesting_Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TirePressureTests">
+    <configuration name="BubbleSortTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSortTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSortTests.bubbleSortShouldReturnSortedCollection" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSortTests" />
+      <option name="METHOD_NAME" value="bubbleSortShouldReturnSortedCollection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomLinkedListTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomLinkedListTests.addShouldInsertElementAtLastIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomLinkedListTests" />
+      <option name="METHOD_NAME" value="addShouldInsertElementAtLastIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TirePressureTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting_Exercises" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TirePressureTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TirePressureTests" />
+        <item itemvalue="JUnit.CustomLinkedListTests" />
+        <item itemvalue="JUnit.CustomLinkedListTests.addShouldInsertElementAtLastIndex" />
+        <item itemvalue="JUnit.BubbleSortTests" />
+        <item itemvalue="JUnit.BubbleSortTests.bubbleSortShouldReturnSortedCollection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e6592d4-216b-49de-87e4-7a5222e303ca" name="Default Changelist" comment="" />
+      <created>1554377397487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554377397487</updated>
+      <workItem from="1554377403759" duration="2047000" />
+      <workItem from="1554457407971" duration="12182000" />
+      <workItem from="1554714480017" duration="6225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CustomLinkedListTests - 2019.04.08 at 13h 19m 29s.xml">
+      <configuration name="CustomLinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomLinkedListTests - 2019.04.08 at 13h 20m 39s.xml">
+      <configuration name="CustomLinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomLinkedListTests - 2019.04.08 at 13h 21m 09s.xml">
+      <configuration name="CustomLinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomLinkedListTests - 2019.04.08 at 13h 23m 00s.xml">
+      <configuration name="CustomLinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CustomLinkedListTests - 2019.04.08 at 13h 23m 45s.xml">
+      <configuration name="CustomLinkedListTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TirePressureTests - 2019.04.08 at 13h 48m 31s.xml">
+      <configuration name="TirePressureTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TirePressureTests - 2019.04.08 at 13h 48m 58s.xml">
+      <configuration name="TirePressureTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TirePressureTests - 2019.04.08 at 14h 05m 33s.xml">
+      <configuration name="TirePressureTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TirePressureTests - 2019.04.08 at 14h 10m 40s.xml">
+      <configuration name="TirePressureTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TirePressureTests - 2019.04.08 at 14h 11m 19s.xml">
+      <configuration name="TirePressureTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20454000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="37" width="1317" height="769" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49778435" visible="true" weight="0.2572549" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5022157" side_tool="true" weight="0.2572549" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26440176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3293944" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.naming/javax/naming/OperationNotSupportedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Database/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DatabaseExtendedTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p02_ExtendedDatabase/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="method#Database#0;class#Database#0" />
+            <element signature="method#add#0;class#Database#0" />
+            <element signature="e#557#624#1" />
+            <element signature="method#remove#0;class#Database#0" />
+            <element signature="method#getElements#0;class#Database#0" />
+            <element signature="e#1109#1216#1" />
+            <element signature="e#1143#1206#1" />
+            <element signature="e#1418#1485#1" />
+            <element signature="e#1526#1720#1" />
+            <element signature="e#1561#1602#1" />
+            <element signature="e#1659#1710#1" />
+            <element signature="e#1754#1821#1" />
+            <element signature="method#findById#0;class#Database#0" />
+            <element signature="e#2025#2202#1" />
+            <element signature="e#2060#2101#1" />
+            <element signature="e#2141#2192#1" />
+            <element signature="e#2236#2303#1" />
+            <element signature="method#setElements#0;class#Database#0" />
+            <element signature="e#2504#2571#1" />
+            <element signature="e#2682#2744#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p01_Database/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DatabaseTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ListIteratorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1476#1477#0" expanded="true" />
+            <element signature="e#1522#1523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p03_IteratorTest/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="method#ListIterator#0;class#ListIterator#0" />
+            <element signature="e#336#403#1" />
+            <element signature="method#move#0;class#ListIterator#0" />
+            <element signature="e#540#609#1" />
+            <element signature="method#hasNext#0;class#ListIterator#0" />
+            <element signature="e#716#752#1" />
+            <element signature="method#print#0;class#ListIterator#0" />
+            <element signature="e#847#925#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p04_BubbleSortTest/Bubble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BubbleSortTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CustomLinkedListTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="153" column="21" lean-forward="true" selection-start-line="153" selection-start-column="21" selection-end-line="153" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1379#1380#0" expanded="true" />
+            <element signature="e#1749#1750#0" expanded="true" />
+            <element signature="e#1768#1769#0" expanded="true" />
+            <element signature="e#3039#3040#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p05_CustomLinkedList/CustomLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="172" column="31" selection-start-line="172" selection-start-column="31" selection-end-line="172" selection-end-column="31" />
+          <folding>
+            <element signature="docComment;class#CustomLinkedList#0" />
+            <element signature="class#ListNode#0;class#CustomLinkedList#0" />
+            <element signature="method#ListNode#0;class#ListNode#0;class#CustomLinkedList#0" />
+            <element signature="method#ListNode#1;class#ListNode#0;class#CustomLinkedList#0" />
+            <element signature="method#CustomLinkedList#0;class#CustomLinkedList#0" />
+            <element signature="docComment;method#get#0;class#CustomLinkedList#0" />
+            <element signature="method#get#0;class#CustomLinkedList#0" />
+            <element signature="e#1402#1488#1" />
+            <element signature="e#1572#1636#1" />
+            <element signature="docComment;method#set#0;class#CustomLinkedList#0" />
+            <element signature="method#set#0;class#CustomLinkedList#0" />
+            <element signature="e#2100#2186#1" />
+            <element signature="e#2270#2334#1" />
+            <element signature="docComment;method#add#0;class#CustomLinkedList#0" />
+            <element signature="method#add#0;class#CustomLinkedList#0" />
+            <element signature="e#2546#2703#1" />
+            <element signature="e#2717#2893#1" />
+            <element signature="docComment;method#removeAt#0;class#CustomLinkedList#0" />
+            <element signature="method#removeAt#0;class#CustomLinkedList#0" />
+            <element signature="e#3240#3326#1" />
+            <element signature="e#3522#3650#1" />
+            <element signature="docComment;method#remove#0;class#CustomLinkedList#0" />
+            <element signature="method#remove#0;class#CustomLinkedList#0" />
+            <element signature="e#4260#4483#1" />
+            <element signature="e#4317#4355#1" />
+            <element signature="e#4518#4674#1" />
+            <element signature="docComment;method#indexOf#0;class#CustomLinkedList#0" />
+            <element signature="method#indexOf#0;class#CustomLinkedList#0" />
+            <element signature="e#5162#5207#1" />
+            <element signature="docComment;method#contains#0;class#CustomLinkedList#0" />
+            <element signature="method#contains#0;class#CustomLinkedList#0" />
+            <element signature="docComment;method#removeListNode#0;class#CustomLinkedList#0" />
+            <element signature="method#removeListNode#0;class#CustomLinkedList#0" />
+            <element signature="e#5914#6047#1" />
+            <element signature="e#6083#6199#1" />
+            <element signature="e#6213#6340#1" />
+            <element signature="e#6420#6465#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TirePressureTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p06_TirePressureMonitoringSystem/Alarm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
